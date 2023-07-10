@@ -1,5 +1,7 @@
 Welcome to Keep ^title
 
+img{wkeep-narrow}
+
 Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies), also look at [Sample Page](sample).
 
 **Note** is a collection of **Blocks**. Blocks could be of different types: `title`, `section`, `subsection`, `text`, `list`, `table`, `cards`, `code`, `image`, `images`.
