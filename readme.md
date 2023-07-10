@@ -68,6 +68,46 @@ sudo pfctl -s nat
 
 Keep uses `ft`, **FormalText**. It's like plain text, with annotations that allows it to be more formal and parsed. FormalText document is a list of Blocks. There are couple of built-in blocks, custom blocks could be defined. It's similar to Markdown, but more extensible.
 
+# FormalText in VSCode
+
+![](docs/vscode.png)
+
+Install 'Highlight' by 'Fabio Spampinato' extension, and then add following to VSCode `settings.json`
+
+```JSON
+  "highlight.regexes": {
+    // tags
+    "(#[a-zA-Zа-яА-Я]+[a-zA-Zа-яА-Я0-9]*)": {
+      "filterFileRegex": ".*.ft$",
+      "decorations": [
+        { "color": "rgb(30, 64, 175)", "fontWeight": "normal" } // "textDecoration": "underline"
+      ]
+    },
+
+    // title and section
+    "([^\n]+?)(\\s*\\^title|\\s*\\^section)(\\s*\n|\\Z)": {
+      "filterFileRegex": ".*.ft$",
+      "decorations": [
+        { "fontWeight": "bold" } // "textDecoration": "underline"
+      ]
+    },
+    // Command
+    "(\\s*)(\\^[a-z0-9]+\\s*)(\n|\\Z)": {
+      "filterFileRegex": ".*.ft$",
+      "decorations": [
+        { "color": "#9CA3AF" }, { "color": "#9CA3AF" }
+      ]
+    },
+    // Bold
+    "(\\*\\*[a-zA-Z0-9\\s]+\\*\\*)": {
+      "filterFileRegex": ".*.ft$",
+      "decorations": [
+        { "fontWeight": "bold" }
+      ]
+    }
+  }
+```
+
 # Extensibility
 
 **Data Formats**, Keep uses FormalText format, other formats, for example Markdown or RST could be added. More **Docs** and **Blocks** types could be defined. It's possible to define **Custom Pages** for individual docs and collections.
