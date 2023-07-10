@@ -7,6 +7,8 @@
 - Голодание, Ю. Николаев #health #high
 - Speculator, D. Casey
 - Drawing on the Right Side of the Brain: Edwards, Betty #drawing
+- Are Your Lights On? #programming
+- Smalltalk Best Practice Patterns, Kent Beck #programming
 
 #unknown ^list
 
@@ -28,6 +30,14 @@ Misc ^section
 - День М, В. Суворов #wisdom #history
 
 #known ^list
+
+Programming ^section
+
+- The Algorithm Design Manual, S. Skiena
+- GoF Design Patterns
+- Domain-Driven Design, Eric Evans
+
+#programming #known ^list
 
 - The Day of the Triffids, J. Wyndham
 - The War of the Worlds, H. Wells

@@ -1,6 +1,6 @@
 Welcome to Keep ^title
 
-Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies) and [Books](books), also look at [Sample Page](sample).
+Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies), also look at [Sample Page](sample).
 
 **Note** is a collection of **Blocks**. Blocks could be of different types: `title`, `section`, `subsection`, `text`, `list`, `table`, `cards`, `code`, `image`, `images`.
 
@@ -10,11 +10,11 @@ Keep validates correctness of notes, links, etc, found problems will be shown as
 
 For Navigation use **Address Bar** and **Back/Forward** buttons.
 
-Notes organised with **Tags** and are **Searcheable**. Click on any tag or search for `knots` text, change it to `#knots`.
+Notes organised with **Tags** and are **Searcheable**. Click on any tag or type  `knots` in search input, change it to `#knots`.
 
-Notes are just files, so you can use `git` and other well known tools to keep versioning and history, backups, collaborate and publish it.
+Keep desinged to be invisible and well integrated with other tools you use. Notes are just files, so you can use your favorite Editor to edit it, `git` and other tools to keep history, backups, collaborate and publish it.
 
-Keep is in early stage, there are couple of minor bugs and not implemented features. It's going to be addressed in the next months.
+Keep is in early stage, there are couple of minor bugs and not implemented features, it's going to be addressed in coming weeks.
 
 If you encounter **problems** or think something is inconvenient or missing, please **[share your thoughts](https://github.com/al6x/keep/issues)**. Also, you are encouraged to take look at [Keep Sources](https://github.com/al6x/nim/tree/main/keep), it's small and relatively simple.
 
