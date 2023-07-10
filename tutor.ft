@@ -10,7 +10,7 @@ Keep validates correctness of notes, links, etc, found problems will be shown as
 
 For Navigation use **Address Bar** and **Back/Forward** buttons.
 
-Notes organised with **Tags** and are **Searcheable**. Click on tag or type `termi` in search input.
+Notes organised with **Tags** and are **Searcheable**. Click on any tag or search for `knots` text, change it to `#knots`.
 
 Notes are just files, so you can use `git` and other well known tools to keep versioning and history, backups, collaborate and publish it.
 
