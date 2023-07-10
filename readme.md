@@ -1,4 +1,4 @@
-Welcome, Keep helps you manage Notes.
+Keep helps you manage Notes
 
 ![](docs/keep1.png)
 
