@@ -64,9 +64,11 @@ sudo pfctl -s nat
 
 # FormalText
 
-Keep uses `ft`, **FormalText**. It's like plain text, with annotations that allows it to be more formal and parsed. FormalText document is a list of Blocks. There are couple of built-in blocks, custom blocks could be defined. It's similar to Markdown, but more extensible.
+Keep uses `ft`, **FormalText**. It's like plain text, with minor annotations. FormalText document is a list of Blocks. There are couple of built-in blocks, like `text`, `table` or `images`, custom blocks could be defined. It's similar to Markdown, but more extensible.
 
 # FormalText in VSCode
+
+Highlight FormalText in VSCode
 
 ![](docs/vscode.png)
 
