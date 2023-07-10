@@ -12,7 +12,7 @@ For Navigation use Browser **Address Bar** and **Back/Forward** buttons for Navi
 
 Notes organised with **Tags** and are **Searcheable**. Click on tag or type `termi` in search input.
 
-Notes are just files, so you can use `git` to keep versioning
+Notes are just files, so you can use `git` and other well known tools to keep versioning and history, backups, collaborate and publish it.
 
 Address Bar and Desktop App ^section
 
