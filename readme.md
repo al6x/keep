@@ -1,4 +1,4 @@
-Welcome, **Keep helps you manage Notes**. It could be Everyday Routine, list of Movies and Books, etc.
+Welcome, Keep helps you manage Notes.
 
 ![](docs/keep1.png)
 
@@ -35,13 +35,13 @@ nim r --experimental:overloadable_enums --threads:off bin/run_keep.nim
 open http://localhost:8080
 ```
 
-# Use /keep instead of http://localhost:8080
+# Take back control of your Browser
 
-It's convenient to take back control over your Browser, and use `/keep` in Address Bar to launch Notes, instead of `http://localhost:8080` noncense.
+It's convenient to use `/keep` instead of `http://localhost:8080` noncense. Below instruction how to do it for Mac OS.
 
 Add `127.0.0.1         keep` line to `/etc/hosts`.
 
-Forward 80 to 8080 on Mac OS
+Forward 80 to 8080:
 
 ```
 echo "
