@@ -18,15 +18,13 @@ Notes organised with **Tags** and are **Searcheable**.
 
 # Installation
 
-Keep written in Nim language, assuming you already have Nim installed.
-
-Install Keep
+Keep written in Nim language, assuming you already have Nim installed, install Keep:
 
 ```
 nimble install https://github.com/al6x/nim?subdir=keep
 ```
 
-Checkout sample notes, this repo, and run Keep
+Then download sample notes - this repo, and run Keep:
 
 ```
 git clone https://github.com/al6x/keep
