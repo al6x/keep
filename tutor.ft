@@ -14,6 +14,10 @@ Notes organised with **Tags** and are **Searcheable**. Click on tag or type `ter
 
 Notes are just files, so you can use `git` and other well known tools to keep versioning and history, backups, collaborate and publish it.
 
+Keep is in early stage, there are couple of minor bugs and not implemented features. It's going to be addressed in next couple of months.
+
+If you encounter problems or think its usage is inconvenient or some features are missing, please **[share your thoughts](https://github.com/al6x/keep/issues)**. Also, you are encouraged to take look at [Keep Sources](https://github.com/al6x/nim/tree/main/keep), it's small and relatively simple.
+
 Address Bar and Desktop App ^section
 
 It's convenient to take back control over your Browser, and use `/keep` in Address Bar to launch Notes, instead of `http://localhost:8080` noncense. Refer to [Keep Readme](https://github.com/al6x/nim/tree/main/keep) for instruction if you would like to do that.
