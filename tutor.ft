@@ -16,7 +16,7 @@ Notes are just files, so you can use `git` and other well known tools to keep ve
 
 Keep is in early stage, there are couple of minor bugs and not implemented features. It's going to be addressed in the next months.
 
-If you encounter problems or think its usage is inconvenient or some features are missing, please **[share your thoughts](https://github.com/al6x/keep/issues)**. Also, you are encouraged to take look at [Keep Sources](https://github.com/al6x/nim/tree/main/keep), it's small and relatively simple.
+If you encounter **problems** or think something is inconvenient or missing, please **[share your thoughts](https://github.com/al6x/keep/issues)**. Also, you are encouraged to take look at [Keep Sources](https://github.com/al6x/nim/tree/main/keep), it's small and relatively simple.
 
 To customise home, create `home.ft` page.
 
