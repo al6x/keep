@@ -1,0 +1,29 @@
+Welcome to Keep ^title
+
+Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies) and [Books](books).
+
+**Note** is a collection of **Blocks**. Blocks could be of different types: `title`, `section`, `subsection`, `text`, `list`, `table`, `cards`, `code`, `image`, `images`.
+
+To **edit** any block - hover coursor over it and click on edit icon.
+
+Keep validates correctness of notes, links, etc, found problems will be shown as **warnings** in the right down corner.
+
+For Navigation use Browser **Address Bar** and **Back/Forward** buttons for Navigation.
+
+Notes organised with **Tags** and **Searcheable**. Click on tag or type `termi` in search input.
+
+Notes are just files, so you can use `git` to keep versioning
+
+Address Bar and Desktop App ^section
+
+It's convenient to take back control over your Browser, and use `/keep` in Address Bar to launch Notes, instead of `http://localhost:8080` noncense. Refer to [Keep Readme](https://github.com/al6x/nim/tree/main/keep) for instruction if you would like to do that.
+
+Or, you may use tools like [Nativefier](https://github.com/nativefier/nativefier) to convert Keep from Web into Desktop App.
+
+FormalText ^section
+
+Keep uses `ft`, **FormalText**. It's like plain text, with annotations that allows it to be more formal and parsed. FormalText document is a list of Blocks. There are couple of built-in blocks, custom blocks could be defined. It's similar to Markdown, but more extensible.
+
+Extensibility ^section
+
+**Data Formats**, Keep uses FormalText format, other formats, for example Markdown or RST could be added. More **Docs** and **Blocks** types could be defined. It's possible to define **Custom Pages** for individual docs and collections.
