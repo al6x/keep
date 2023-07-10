@@ -1,6 +1,6 @@
 Welcome to Keep ^title
 
-Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies) and [Books](books).
+Keep helps you manage Notes, it could be [Everyday Routine](everyday), list of [Movies](movies) and [Books](books), also look at [Sample Page](sample).
 
 **Note** is a collection of **Blocks**. Blocks could be of different types: `title`, `section`, `subsection`, `text`, `list`, `table`, `cards`, `code`, `image`, `images`.
 
