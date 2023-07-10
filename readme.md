@@ -14,7 +14,7 @@ Keep validates correctness of notes, links, etc, found problems shown as **warni
 
 For Navigation use Browser **Address Bar** and **Back/Forward** buttons for Navigation.
 
-Notes organised with **Tags** and **Searcheable**.
+Notes organised with **Tags** and are **Searcheable**.
 
 # Installation
 
