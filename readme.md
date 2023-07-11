@@ -1,4 +1,4 @@
-Keep helps you manage Notes
+Keep helps you manage Notes, see [Video Demo, 5min](https://youtu.be/q_YrbArhXXE)
 
 ![](docs/keep1.png)
 
